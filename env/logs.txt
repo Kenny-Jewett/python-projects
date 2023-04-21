@@ -1,0 +1,17 @@
+INFO:root:{'asdf'}
+INFO:root:{'logging test'}
+INFO:root:{'climb'}
+INFO:root:{'left'}
+INFO:root:{''}
+INFO:root:{'move'}
+INFO:root:logging test died
+ERROR:playsound:
+    Error 263 for command:
+        close ./creepy-cave-47164.mp3
+    The specified device is not open or is not recognized by MCI.
+WARNING:playsound:Failed to close the file: ./creepy-cave-47164.mp3
+INFO:root:{'Kenny'}
+INFO:root:{'climb'}
+INFO:root:{'left'}
+INFO:root:{'wait'}
+INFO:root:{''}
