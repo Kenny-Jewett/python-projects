@@ -361,7 +361,7 @@ def cave_path_right_failure():
         print(f"    \_/________________________________________________________________________________/.")
         print(f"                                                                                         ")
         print(f"                                                                                         ")
-        playsound('./quake-and-break-00934.mp3')
+        playsound('./quake-and-break-99034.mp3')
 
         pit_climb = input("What do you do this time? ")
 
